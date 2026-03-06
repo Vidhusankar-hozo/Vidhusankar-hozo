@@ -21,6 +21,7 @@ BTech AI & Data Science Student
 Artificial Intelligence
 Machine Learning
 Computer Vision
+Drone Technology
 
 > system_status
 Learning • Building • Innovating
