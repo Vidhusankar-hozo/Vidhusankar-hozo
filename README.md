@@ -18,9 +18,9 @@
 
 <div align="center">
 
-### ⚡ Motto
+## ⚡ Motto
 
-> **“I don’t just learn technology — I create with it.”**
+**“I don’t just learn technology — I create with it.”**
 
 </div>
 
@@ -64,9 +64,7 @@ Learning • Building • Innovating
 
 </div>
 
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -75,8 +73,6 @@ Learning • Building • Innovating
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
-
----
 
 # 🔥 GitHub Streak
 
