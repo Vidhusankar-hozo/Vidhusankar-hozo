@@ -1,231 +1,119 @@
-<!-- MATRIX STYLE HEADER -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vidhusankar+C+H;AI+%7C+Data+Science+Student;Machine+Learning+Developer;Drone+Technology+Enthusiast;Welcome+to+My+GitHub" />
-</p>
+<div align="center">
 
-<h3 align="center">⚡ “I don’t just learn technology—I create with it.”</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=VIDHUSANKAR+C+H" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Real+World+AI+Projects;Turning+Ideas+Into+Technology" />
 
-# 🧑‍💻 About Me
-
-🎓 BTech Student in **AI & Data Science**  
-🏫 St. Joseph’s College of Engineering and Technology, Palai  
-
-💡 Passionate about:
-
-- Artificial Intelligence  
-- Machine Learning  
-- Data Science  
-- Drone Technology  
-- Building AI Products  
-
-🚀 **Project Expo Winner – EmergX Dhruva'25**
+</div>
 
 ---
 
-# 🚀 AI Project Showcase
+<div align="center">
 
-### 🧠 Identify.ai
-AI-assisted system that generates **suspect images from witness descriptions** using Stable Diffusion.
+### ⚡ Motto
 
-**Tech Used**
-- Python
-- Stable Diffusion
-- LoRA Fine-tuning
-- FastAPI
-- React
+> **“I don’t just learn technology — I create with it.”**
+
+</div>
 
 ---
 
-### 🚁 Autonomous Drone System
-Developed an **autonomous drone** for national competitions.
+# 🖥 Terminal Profile
 
-🏆 Achievements:
-- AIR 17 – SAEINDIA Autonomous Drone Competition  
-- AIR 12 – NIDAR National Competition  
+```bash
+> whoami
+Vidhusankar C H
 
----
+> role
+BTech AI & Data Science Student
 
-# 🧠 Skills & Tools
+> focus
+Artificial Intelligence
+Machine Learning
+Computer Vision
 
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,r,sql" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
-</p>
-
-### 🤖 AI / Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+> system_status
+Learning • Building • Innovating
+```
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhusankar-hozo&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
+| Project | Description |
+|--------|-------------|
+| **Identify.ai** | AI system that generates suspect sketches from witness descriptions |
+| **Autonomous Drone** | Autonomous drone developed for SAEINDIA competition |
+| **Semantic Image Communication** | Generative model-based semantic image transmission system |
 
 ---
 
-# 📈 Top Languages
+# 🧠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,r,git,github,vscode,mysql" />
 
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="<!-- MATRIX STYLE HEADER -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vidhusankar+C+H;AI+%7C+Data+Science+Student;Machine+Learning+Developer;Drone+Technology+Enthusiast;Welcome+to+My+GitHub" />
-</p>
-
-<h3 align="center">⚡ “I don’t just learn technology—I create with it.”</h3>
+</div>
 
 ---
 
-# 🧑‍💻 About Me
+# 📊 GitHub Statistics
 
-🎓 BTech Student in **AI & Data Science**  
-🏫 St. Joseph’s College of Engineering and Technology, Palai  
+<div align="center">
 
-💡 Passionate about:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-- Artificial Intelligence  
-- Machine Learning  
-- Data Science  
-- Drone Technology  
-- Building AI Products  
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
-🚀 **Project Expo Winner – EmergX Dhruva'25**
+</div>
 
 ---
 
-# 🚀 AI Project Showcase
+# 🔥 GitHub Streak
 
-### 🧠 Identify.ai
-AI-assisted system that generates **suspect images from witness descriptions** using Stable Diffusion.
+<div align="center">
 
-**Tech Used**
-- Python
-- Stable Diffusion
-- LoRA Fine-tuning
-- FastAPI
-- React
+<img src="https://streak-stats.demolab.com?user=Vidhusankar-hozo&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🚁 Autonomous Drone System
-Developed an **autonomous drone** for national competitions.
+# 📈 Contribution Graph
 
-🏆 Achievements:
-- AIR 17 – SAEINDIA Autonomous Drone Competition  
-- AIR 12 – NIDAR National Competition  
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidhusankar-hozo&theme=chartreuse-dark&hide_border=true"/>
 
-# 🧠 Skills & Tools
-
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,r,sql" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
-</p>
-
-### 🤖 AI / Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 Achievements
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhusankar-hozo&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-# 📈 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 🥇 First Prize — Project Expo EmergX (Dhruva'25 Techfest)
+- 🚁 SAEINDIA Autonomous Drone Competition
+- 🛰 NIDAR National Drone Competition
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/vidhusankarch/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vidhusankar-c-h-a68716248)
 
-<a href="mailto:vidhusankar11@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Vidhusankar-hozo)
 
-</p>
+[![Email](https://img.shields.io/badge/Gmail-00FF88?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vidhusankar11@gmail.com)
+
+</div>
 
 ---
 
-# ⚡ Fun Fact
+<div align="center">
 
-🧠 I love building **AI systems that solve real-world problems**  
-🚀 Always exploring **new technologies and ideas**
+![Profile Views](https://komarev.com/ghpvc/?username=Vidhusankar-hozo&color=00ff88&style=flat-square)
 
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=120&section=footer"/>
-</p>">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:vidhusankar11@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-🧠 I love building **AI systems that solve real-world problems**  
-🚀 Always exploring **new technologies and ideas**
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=120&section=footer"/>
-</p>
+</div>
