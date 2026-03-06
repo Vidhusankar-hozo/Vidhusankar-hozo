@@ -73,10 +73,20 @@ class Vidhusankar:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img width="60%" src="https://streak-stats.demolab.com?user=Vidhusankar-hozo&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+
+<img width="55%" src="https://streak-stats.demolab.com?user=Vidhusankar-hozo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidhusankar-hozo&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
 </div>
 
