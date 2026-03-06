@@ -68,12 +68,11 @@ Learning • Building • Innovating
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
-
 # 🔥 GitHub Streak
 
 <div align="center">
