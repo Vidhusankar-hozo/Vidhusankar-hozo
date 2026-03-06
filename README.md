@@ -10,8 +10,6 @@
 
 <div align="center">
 
-### ⚡ Motto
-
 > **“I don’t just learn technology — I create with it.”**
 
 </div>
