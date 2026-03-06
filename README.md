@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=VIDHUSANKAR+C+H" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=VIDHUSANKAR+C+H;AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Real+World+AI+Projects" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Real+World+AI+Projects;Turning+Ideas+Into+Technology" />
+</div>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
+
+### ⚡ Motto
 
 > **“I don’t just learn technology — I create with it.”**
 
@@ -50,7 +56,7 @@ Learning • Building • Innovating
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,r,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,r,git,github,vscode,mysql,react,flask" />
 
 </div>
 
@@ -60,7 +66,7 @@ Learning • Building • Innovating
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
@@ -93,6 +99,14 @@ Learning • Building • Innovating
 - 🥇 First Prize — Project Expo EmergX (Dhruva'25 Techfest)
 - 🚁 SAEINDIA Autonomous Drone Competition
 - 🛰 NIDAR National Drone Competition
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
