@@ -73,14 +73,7 @@ class Vidhusankar:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vidhusankar-hozo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhusankar-hozo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="55%" src="https://streak-stats.demolab.com?user=Vidhusankar-hozo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="55%" src="https://streak-stats.demolab.com?user=Vidhusankar-hozo&theme=tokyonight&hide_border=true" />
 
 </div>
 
