@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=VIDHUSANKAR+C+H;AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Real+World+AI+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=VIDHUSANKAR+C+H" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Real+World+AI+Projects" />
 
 </div>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60%"/>
 
 </div>
 
@@ -36,7 +40,7 @@ Artificial Intelligence
 Machine Learning
 Computer Vision
 
-> system_status
+> status
 Learning • Building • Innovating
 ```
 
