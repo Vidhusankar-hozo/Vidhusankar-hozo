@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Vidhusankar%20CH&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Computer%20Vision&descAlignY=58&descColor=aaffaa" />
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+see+%26+think...;Computer+Vision+%7C+Deep+Learning+%7C+Edge+AI;Autonomous+Drone+%7C+Identify.ai+%7C+EchoBI;%F0%9F%8F%861st+Place+%E2%80%94+Dhruva'25+Project+Expo" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+see+%26+think...;Computer+Vision+%7C+Deep+Learning+%7C+Edge+AI;Autonomous+Drone+%7C+Identify.ai+%7C+EchoBI;%F0%9F%8F%861st+Place+%E2%80%94+Dhruva%2725+Project+Expo" />
 <br/>
 
 <!-- SOCIAL BADGES -->
